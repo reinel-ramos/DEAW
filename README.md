@@ -1,2 +1,2 @@
-# DEAW
-DEAW practica 1
+# Repositorio DEAW
+Este repositorio es para ejercicios de DEAW - Tu Nombre y Apellidos
